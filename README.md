@@ -1,8 +1,40 @@
-![Auto Assign](https://github.com/The-Beta-Testing-Studios-pvt-ltd/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+***
 
-![Proof HTML](https://github.com/The-Beta-Testing-Studios-pvt-ltd/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+# Welcome to The Beta Testing Studios's main repository!
 
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+***
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+## Some info about us:
+
+### The projects hooked with this specific repository are developer-friendly and consist of prototype projects. This is just a start-up repository and is not supposed to be handling complete, descriptive projects.
+
+### The below is only a reference to our security policies, we will probably update them when any three of our issues are fixed. Don't worry! That will definitely happen soon! To learn more about our security policy, please visit this link: https://github.com/pavans2011/prototype_projects/blob/main/SECURITY.md?plain=1
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 5.1.x   | :white_check_mark: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :white_check_mark: |
+| < 4.0   | :x:                |
+
+***
+
+## Our privacy policy: 
+
+### This section tells people about which versions of our project are currently being supported with security updates that would be updated alongside our terms and conditions, the chart below is a representation of what versions of our products are backed by our security policy.
+
+***
+
+
+### We are honoured and very enthusiastic about gathering collaborators and our start-up projects are being used and rewarded, which is the sole purpose of this GitHub repository... So please, it would be rewarding if many more of a generation of beta testers could join forces and promote our products!
+
+
+***
+ 
+![](https://www.pixground.com/wp-content/uploads/2023/07/Abstract-Gradient-Blue-Layers-AI-Generated-4K-Wallpaper-jpg.webp)
+
+### Arios Amigos!
+### Powering off...
+
+***
+
