@@ -1,7 +1,7 @@
 {
-  "name": "demo-repo",
-  "version": "0.2.0",
-  "description": "A sample package.json",
+  "name": "main-repo",
+  "version": "0.0.1",
+  "description": "The projects hooked with this specific repository are coded with python and other languages are developer-friendly and consist of prototype projects. This is just a start-up repository and is not supposed to be handling complete, descriptive projects.",
   "dependencies": {
     "@primer/css": "17.0.1"
   },
